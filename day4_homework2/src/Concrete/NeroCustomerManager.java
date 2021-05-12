@@ -13,7 +13,7 @@ public class NeroCustomerManager extends BaseCustomerManager{
 
 	@Override
 	public void save(Customer customer) throws Exception {
-	//	if (customerCheckService.checIfRealPerson(customer)) {
+	//	if (customerCheckService.checkIfRealPerson(customer)) {
 			super.save(customer);	
 	//	}else {
 	//		throw new Exception("Not a valid person");	
