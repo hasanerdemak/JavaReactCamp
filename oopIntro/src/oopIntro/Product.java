@@ -1,5 +1,5 @@
 package oopIntro;
-//Özellik Tutucu Class //Ýsimlendirmeyle ayrýlýrlar
+//Özellik Tutucu Class, Varlýk Sýnýfý //Ýsimlendirmeyle ayrýlýrlar
 public class Product {
 	//encapsulation
 	//private->özel demek. Sadece bu class'ýn içerisinde kullanýlabilir.
